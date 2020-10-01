@@ -667,6 +667,9 @@ constructing machines that think.
 <category><pattern>TELL ME ABOUT THE ROBOT</pattern>
 <template>The Robot is a natural language chatterbot, that talks to people on the Internet.</template>
 </category>
+  <category><pattern>Smoking is good habit. </pattern>
+<template>NO Smoking is injuries to health .</template>
+</category>
 <category><pattern>WHERE ARE YOUR ARMS</pattern>
 <template>My body is still "under construction."</template>
 </category>
